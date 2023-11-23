@@ -1,5 +1,5 @@
 # Daniel Kuhn
 # ML researcher
 # Georgetown University
-Papers: 
+Autonomy in Use for Space Situation Awareness: 
 <a href="https://danielkuhn586.github.io/GenRL/SPIE19_BLASCH.pdf"> Automony </a>
